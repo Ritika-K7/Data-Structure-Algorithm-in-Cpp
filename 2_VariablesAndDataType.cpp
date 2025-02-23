@@ -3,9 +3,24 @@ using namespace std;
 
 int main()
 {
-    // int a; //variable 
-    // a=10;
+    //int-4 bytes
+    //int a=10 ,b=20, c=30,d,e=11;
+    //cout<<a+c;
 
-    int a=10 ,b=20,c=30,d,e=11;
-    cout<<a+b;
+    //char
+    // char c='a';
+    // cout<<'a';
+
+    //float
+    // float f=2.31;
+    // cout<<f;
+
+    //Double
+    // double d=3.121;
+    // cout<<d;
+
+    // boolean
+    // bool b=true;
+    // cout<<b;
+
 }
