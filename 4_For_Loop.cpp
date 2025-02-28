@@ -76,5 +76,57 @@ int main()
     // // OR
     // cout<<(n*(n+1))/2;
 
+
+    //Factorial of number
+    // int n,fact=1,i;
+    // cout<<"Enter the number:";
+    // cin>>n;
+    // for(i=1;i<=n;i=i+1)
+    // {
+    //     fact =fact*i;
+    // }
+    // cout<<fact;
+
+
+    // //Prime Number
+    // int n ,i;
+    // cout<<"Enter the Number:";
+    // cin>>n;
+
+    // if(n<2)
+    // {
+    //     cout<<"Not Prime Number";
+    //     return 0;
+    // }
+    // else
+    // {
+    //     for(i=2;i<n;i=i+1)
+    //     {
+    //         if(n%i==0)
+    //         {
+    //             cout<<"Not Prime Number";
+    //             return 0;
+    //         }           
+    //     }
+    //     cout<<"Prime Number";
+    //     return 0;
+    // }
+
+
+
+    // //Fibonaci Numbers series
+    // int n, i;
+    // int a=0,b=1 ,c;
+    // cout<<"Enter Number:";
+    // cin>>n;
+    // cout<<a<<endl<<b<<endl;
+    // for(i=2;i<n;i=i+1)
+    // {
+    //     c=a+b;
+    //     cout<<c<<endl;
+    //     a=b;
+    //     b=c;
+    // }
+
  
 }
