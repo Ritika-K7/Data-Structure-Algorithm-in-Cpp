@@ -90,20 +90,68 @@ int main()
 
 
 
-    // 1 4 9 16 25
-    // 1 4 9 16 25
-    // 1 4 9 16 25
-    // 1 4 9 16 25
-    int row,col;
-    for(row=1;row<=5;row=row+1)
-    {
-        for(col=1;col<=5;col=col+1)
-        {
-            cout<<col*col<<" ";
-        }
-        cout<<endl;
-    }
+    // // 1 4 9 16 25
+    // // 1 4 9 16 25
+    // // 1 4 9 16 25
+    // // 1 4 9 16 25
+    // int row,col;
+    // for(row=1;row<=5;row=row+1)
+    // {
+    //     for(col=1;col<=5;col=col+1)
+    //     {
+    //         cout<<col*col<<" ";
+    //     }
+    //     cout<<endl;
+    // }
 
+
+
+    // // aaaa
+    // // bbbb
+    // // cccc
+    // // dddd
+    // // eeee
+    // int row,col;
+    // for(row=1;row<=5;row=row+1)
+    // {
+    //     char name='a'+(row-1);
+    //     for(col=1;col<=5;col=col+1)
+    //     {
+    //         cout<<name<<" ";
+    //     }
+    //     cout<<endl;
+    // }
+
+
+
+
+
+    // // abcde
+    // // abcde
+    // // abcde
+    // int row;
+    // for(row=1;row<=5;row=row+1)
+    // {
+    //     for(char col='a';col<='e';col=col+1)
+    //     {
+    //         cout<<col<<" ";
+    //     }
+    //     cout<<endl;
+    // }
+
+    // //OR
+    // int row,col;
+    // for(row=1;row<=5;row=row+1)
+    // {     
+    //     for(col=1;col<=5;col=col+1)
+    //     {
+    //         char name='a'+col-1;
+    //         cout<<name<<" ";
+    //     }
+    //     cout<<endl;
+    // }
+
+ 
 
     
 
