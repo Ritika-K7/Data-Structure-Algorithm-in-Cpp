@@ -110,4 +110,40 @@ using namespace std;
     //     }
     //     cout<<endl;
     // }
+
+
+
+
+   // //  12345
+   // //  1234
+   // //  123
+   // //  12
+   // //  1
+   //  int row,col;
+   //  for(row=1;row<=5;row=row+1)
+   //  {
+   //      for(col=1;col<=5-(row-1);col=col+1)
+   //      {
+   //          cout<<col<<" ";
+   //      }
+   //      cout<<endl;
+   //  }
+
+
+
+   // 5
+   // 54
+   // 543
+   // 5432
+   // 54321
+   int row,col;
+   for(row=1;row<=5;row=row+1)
+   {
+      for(col=5;col>=5-row+1;col=col-1)
+      {
+         cout<<col<<" ";
+      }
+      cout<<endl;
+   }
+
  }
